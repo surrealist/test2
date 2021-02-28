@@ -1,8 +1,12 @@
-Hello
-- a
-- b
-- c
+# README
 
-```
+Hello
+
+* a
+* b
+* c
+
+```text
 dir
 ```
+
